@@ -3,3 +3,4 @@ git add 向暂存区添加命令
 git commit -m 提交暂存区的内容到仓库
 git log 查看所有commit的信息
 git reflog 查看所有操作
+git reset --hard HEAD^ 一个^代表回退一次提交
