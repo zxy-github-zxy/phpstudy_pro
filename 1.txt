@@ -1,3 +1,5 @@
-1111111111
-1.1
-1.2
+git init 初始化git仓库命令
+git add 向暂存区添加命令
+git commit -m 提交暂存区的内容到仓库
+git log 查看所有commit的信息
+git reflog 查看所有操作
